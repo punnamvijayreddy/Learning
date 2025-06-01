@@ -1,5 +1,5 @@
 # Learning
-This Repo is meant for my googlr sde 3 preparation
+This Repo is meant for my google sde 3 preparation
 My foucs Area:
 ---- 
 1. DSA
